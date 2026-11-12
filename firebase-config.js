@@ -1,7 +1,5 @@
-// Paste the Firebase web app config from Firebase Console > Project settings > Your apps.
-// This config is a public project identifier, NOT a password. Security comes from Firestore Rules.
 export const firebaseConfig = {
-  apiKey: "AIzaSyBhwIExWoenl962_Tlgct8Er3YbsuH-G9s",
+  apiKey: "從Firebase Console複製的完整apiKey",
   authDomain: "path-to-dd-control-centre.firebaseapp.com",
   projectId: "path-to-dd-control-centre",
   storageBucket: "path-to-dd-control-centre.firebasestorage.app",
