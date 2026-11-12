@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-  apiKey: "從Firebase Console複製的完整apiKey",
+  apiKey: "AIzaSyBhwIExWoenl962_T1gct8Er3YbsuH-G9s",
   authDomain: "path-to-dd-control-centre.firebaseapp.com",
   projectId: "path-to-dd-control-centre",
   storageBucket: "path-to-dd-control-centre.firebasestorage.app",
